@@ -1,0 +1,18 @@
+.well{
+	
+	background-color: rgba(10,5,3,0.4);
+	margin-top: 200px;
+	
+	text-align: center;
+	
+}
+form{
+	border: 1px solid black;
+	margin-left: 300px ;
+	margin-right: 300px;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+.moussa  .container{
+	text-align:center;
+}
